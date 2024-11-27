@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Play>https://raw.githubusercontent.com/waynemillskidals/fuse2/main/fuse2_test_message.mp3</Play>
+    <Say>Sorry, we are unable to play the audio file at this time.</Say>
+</Response>
